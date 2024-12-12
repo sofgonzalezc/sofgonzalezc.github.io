@@ -1,4 +1,4 @@
-# Hello World
+# Hello World!
 This is my home page! My name is Sofia Gonzalez Curti and I am currently studying Computer Science at California State University, Fullerton.
 
 ## Computer Science Projects
